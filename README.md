@@ -1,2 +1,2 @@
 # dlomiwa-kio
-my first github repo.
+my first git repo.
